@@ -5,7 +5,7 @@ const toolbarHTML = `
   <div class="max-w-[1240px] mx-auto px-5 flex justify-between items-center">
     <div class="flex gap-5">
       <a href="tel:989085474" class="flex items-center gap-1.5 hover:text-white"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.15 15.15 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.56.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.56 1 1 0 01-.24 1.01l-2.21 2.22z"></path></svg> +51 989 085 474</a>
-      <a href="tel:966755833" class="flex items-center gap-1.5 hover:text-white"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.15 15.15 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.56.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.56 1 1 0 01-.24 1.01l-2.21 2.22z"></path></svg> +51 966 755 833</a>
+      <a href="tel:966755833" class="hidden md:flex items-center gap-1.5 hover:text-white"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.15 15.15 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24 11.36 11.36 0 003.56.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.56 1 1 0 01-.24 1.01l-2.21 2.22z"></path></svg> +51 966 755 833</a>
     </div>
     <div class="flex gap-2.5 items-center">
       <a href="https://facebook.com/Jezurdo180315/" target="_blank" aria-label="Facebook" class="w-7 h-7 bg-white/10 backdrop-blur rounded-full flex items-center justify-center hover:bg-[#54B435] transition-all hover:scale-110"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path></svg></a>
